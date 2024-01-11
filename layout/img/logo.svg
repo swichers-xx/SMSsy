@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  preserveAspectRatio="xMidYMid meet" viewBox="0 0 38 38" width="38" height="38">
+
+<defs data-v-fde0c5aa="">
+  <linearGradient data-v-fde0c5aa="" gradientTransform="rotate(25)" id="09bc6b2f-7d6f-4c51-bb99-8ccbbc8e78bb" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop data-v-fde0c5aa="" offset="0%" stop-color="#395ECA" stop-opacity="1"></stop><stop data-v-fde0c5aa="" offset="100%" stop-color="#848BD8" stop-opacity="1"></stop>
+    </linearGradient>
+  </defs>
+<g data-v-fde0c5aa="" id="ba239896-e8ec-442e-80cb-5e89f188aef7" stroke="none" fill="url(#09bc6b2f-7d6f-4c51-bb99-8ccbbc8e78bb)">
+  <path d="M16 32c8.837 0 16-7.163 16-16S24.837 0 16 0 0 7.163 0 16s7.163 16 16 16zM14.817 6.421h2v8.886h8.887v2H14.817V6.421zm-5.959.437h2v14.283h14.283v2H8.858V6.858z"></path>
+</g>
+</svg>
